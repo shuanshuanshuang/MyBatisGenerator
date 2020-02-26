@@ -1,0 +1,59 @@
+Bundled (Maven 3)
+C:\Users\Administrator\.m2\settings.xml
+C:\Users\Administrator\.m2\repository
+
+MySQL密码：123456   用户名：root
+
+打开cmd命令窗口，使用命令进行安装和注册redis到window服务
+
+安装命令：redis-server.exe --service-install redis.windows.conf --loglevel verbose
+启动服务命令：redis-server.exe  --service-start
+关闭服务命令：redis-server.exe  --service-stop
+作为一个客户端调用redis服务，如下图所示，调用命令是：redis-cli.exe -h 127.0.0.1 -p 6379
+https://blog.csdn.net/qq_39135287/article/details/82686837
+
+
+dubbo.registry.address=zookeeper://127.0.0.1:2181
+
+dubbo.admin.root.password=root
+
+dubbo.admin.guest.password=guest
+
+F:\java\zookeeper\apache-zookeeper-3.5.5-bin\data
+F:\java\zookeeper\apache-zookeeper-3.5.5-bin\logs
+https://github.com/apache/dubbo
+http://mirror.bit.edu.cn/apache/zookeeper/
+
+
+start mqnamesrv.cmd’
+start mqbroker.cmd -n 127.0.0.1:9876 autoCreateTopicEnable=true
+
+快捷键：getter，setter  alt+insert
+https://www.cnblogs.com/stoneJin/archive/2011/09/21/2183313.html  static关键字
+
+
+我的github地址
+用户名：shuanshuanshuang
+密码：Aa123456liuyunzhi
+邮箱：m15210675046@163.com     61463803+shuanshuanshuang@users.noreply.github.com
+https://github.com/shuanshuanshuang/MyBatisGenerator.git
+https://github.com/shuanshuanshuang/shuangshuang-dubbo-apply.git
+https://github.com/shuanshuanshuang/shuangshuang-web.git
+https://github.com/shuanshuanshuang/shuangshuang-service.git   github地址
+http://code.dongnaoedu.com:9999/java-vip-all/24-project-instance-01.git   动脑的地址
+
+
+
+
+MNQ043JMTU-eyJsaWNlbnNlSWQiOiJNTlEwNDNKTVRVIiwibGljZW5zZWVOYW1lIjoiR1VPIEJJTiIsImFzc2lnbmVlTmFtZSI6IiIsImFzc2lnbmVlRW1haWwiOiIiLCJsaWNlbnNlUmVzdHJpY3Rpb24iOiIiLCJjaGVja0NvbmN1cnJlbnRVc2UiOmZhbHNlLCJwcm9kdWN0cyI6W3siY29kZSI6IklJIiwiZmFsbGJhY2tEYXRlIjoiMjAxOS0wNC0wNSIsInBhaWRVcFRvIjoiMjAyMC0wNC0wNCJ9XSwiaGFzaCI6IjEyNjIxNDIwLzBwIiwiZ3JhY2VQZXJpb2REYXlzIjo3LCJhdXRvUHJvbG9uZ2F0ZWQiOnRydWUsImlzQXV0b1Byb2xvbmdhdGVkIjp0cnVlfQ==-Zmbxcn7NPlqBNqAURX0uiLzybnruyx6PG+6KYZrpzm/IJJs5nnIogGgdfIJoifO6fbaaJYc5pjds7CHdrt/neIpvF2o/HvIjMEF4/AhNV7HUGsAa9zpMszc6YBIkMmVFh4Y7GPKOStA14/Ld83AC7kGnwL1Fq7eAXKJFljc00GMejPpfE0zDqTN634bC+0ojfklhWXaLqhUt230SiE8onnd3quvEaH5NsW7sIQm2spyONZI+iHvHFtl4EvG7tlRlD1StsfhrbgNNxz61FOEEQ+GtZIzMx+T4sbpfoRyms7lbWQecrbAtE0c2sR98esm4PcDUhrFVBxGorPC1ppOLSQ==-MIIElTCCAn2gAwIBAgIBCTANBgkqhkiG9w0BAQsFADAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBMB4XDTE4MTEwMTEyMjk0NloXDTIwMTEwMjEyMjk0NlowaDELMAkGA1UEBhMCQ1oxDjAMBgNVBAgMBU51c2xlMQ8wDQYDVQQHDAZQcmFndWUxGTAXBgNVBAoMEEpldEJyYWlucyBzLnIuby4xHTAbBgNVBAMMFHByb2QzeS1mcm9tLTIwMTgxMTAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxcQkq+zdxlR2mmRYBPzGbUNdMN6OaXiXzxIWtMEkrJMO/5oUfQJbLLuMSMK0QHFmaI37WShyxZcfRCidwXjot4zmNBKnlyHodDij/78TmVqFl8nOeD5+07B8VEaIu7c3E1N+e1doC6wht4I4+IEmtsPAdoaj5WCQVQbrI8KeT8M9VcBIWX7fD0fhexfg3ZRt0xqwMcXGNp3DdJHiO0rCdU+Itv7EmtnSVq9jBG1usMSFvMowR25mju2JcPFp1+I4ZI+FqgR8gyG8oiNDyNEoAbsR3lOpI7grUYSvkB/xVy/VoklPCK2h0f0GJxFjnye8NT1PAywoyl7RmiAVRE/EKwIDAQABo4GZMIGWMAkGA1UdEwQCMAAwHQYDVR0OBBYEFGEpG9oZGcfLMGNBkY7SgHiMGgTcMEgGA1UdIwRBMD+AFKOetkhnQhI2Qb1t4Lm0oFKLl/GzoRykGjAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBggkA0myxg7KDeeEwEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYDVR0PBAQDAgWgMA0GCSqGSIb3DQEBCwUAA4ICAQAF8uc+YJOHHwOFcPzmbjcxNDuGoOUIP+2h1R75Lecswb7ru2LWWSUMtXVKQzChLNPn/72W0k+oI056tgiwuG7M49LXp4zQVlQnFmWU1wwGvVhq5R63Rpjx1zjGUhcXgayu7+9zMUW596Lbomsg8qVve6euqsrFicYkIIuUu4zYPndJwfe0YkS5nY72SHnNdbPhEnN8wcB2Kz+OIG0lih3yz5EqFhld03bGp222ZQCIghCTVL6QBNadGsiN/lWLl4JdR3lJkZzlpFdiHijoVRdWeSWqM4y0t23c92HXKrgppoSV18XMxrWVdoSM3nuMHwxGhFyde05OdDtLpCv+jlWf5REAHHA201pAU6bJSZINyHDUTB+Beo28rRXSwSh3OUIvYwKNVeoBY+KwOJ7WnuTCUq1meE6GkKc4D/cXmgpOyW/1SmBz3XjVIi/zprZ0zf3qH5mkphtg6ksjKgKjmx1cXfZAAX6wcDBNaCL+Ortep1Dh8xDUbqbBVNBL4jbiL3i3xsfNiyJgaZ5sX7i8tmStEpLbPwvHcByuf59qJhV/bZOl8KqJBETCDJcY6O2aqhTUy+9x93ThKs1GKrRPePrWPluud7ttlgtRveit/pcBrnQcXOl1rHq7ByB8CFAxNotRUYL9IF5n3wJOgkPojMy6jetQA5Ogc8Sm7RG6vg1yow==
+
+
+
+国内接活平台
+1、BAT级工程师|程序员技术共享平台-猿急送 （https://www.yuanjisong.com/）
+随着移动互联网的火爆，各种私活网站上，发布私活的人很多，但是总是狼多肉少。比如常去的那些猪八戒啊，威客网啊，里面私活是不少，或许能找到很多感觉适合自己开发的。就看你报价能不能拿下了，就像我在上边说的，报价真是一门坑爹的艺术，报多了，稍不留神就溜走了，报少了，累的苦的是自己。
+
+当然随着发展一些新兴的接私活的方式陆续出现了，比如什么快码众包，极客帮soho，他们负责接活，然后把代码拆分，弄成各种功能模块，大活变成了小活，开发者就能很容易做完，还有一些新的app，帮着解答技术问题，就给解答者钱等等。当然这些新兴的方式，创意是不错，也能解决很多开发者接活的痛点，但是还是那句话狼多肉少，就像小米手机一样，搞的都是饥饿销售的模式，就看你能不能够抢到了。
+————————————————
+版权声明：本文为CSDN博主「非著名程序员」的原创文章，遵循CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/loongggdroid/article/details/49995187
